@@ -1,2 +1,2 @@
 # hello-world
-My first repository created by following the instructions in the GitHub guide.
+My first repository created with the instructions in the GitHub guide.
